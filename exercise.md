@@ -5,7 +5,7 @@
 
 1. Look at the previous two commit messages in this repo. briefly explain below which commit message is a good and which is bad, and why.
 
-The commit messages are reasonable and detailed.
+Both commit messages are good because the messages are reasonable and detailed, and they are descriptive to what the contributor was doing.
 
 2. Commit your answer
 
